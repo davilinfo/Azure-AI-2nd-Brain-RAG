@@ -1,0 +1,4 @@
+Find and summarize two relevant, high-quality sources (articles, books, or papers) for each subtopic.
+Include titles, links (if applicable), and authors.
+Write a brief no more than 70 words, original synthesis of the AI-generated summaries, adding your own insights.
+Single source article.
